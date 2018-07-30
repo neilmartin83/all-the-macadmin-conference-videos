@@ -10,6 +10,7 @@ This was inspired by a post on the MacAdmins Slack by @matx
 ### Penn State University MacAdmins (PSU)
 
 https://macadmins.psu.edu/
+
 https://www.youtube.com/channel/UCiRYn1OSRv2bvU3enNwoZxg
 
 ### MacSysAdmin Sweden
@@ -35,6 +36,7 @@ https://mdoyvr.com/videos/
 ### Mac Admin and Developer Conference UK (MacADUK)
 
 https://www.macad.uk/
+
 https://www.youtube.com/channel/UCwQsWZeYENRSSOpa9_MfSOA
 
 ### Apple Worldwide Developer Conference (WWDC)
@@ -50,19 +52,23 @@ https://auc.edu.au/xworld/sessions-2017/
 ### Austin Apple Admins
 
 https://austinappleadmins.org/
+
 https://www.facebook.com/pg/austinappleadmins/videos/
 
 ### Greater Philadelphia Mac Admins
 
 https://phillymacadmins.com/
+
 https://www.youtube.com/channel/UCqSEza8Hzxtt9ctYtuUrBTw/videos
 
 ### London Apple Admins
 
 http://www.londonappleadmins.org.uk/
+
 https://www.youtube.com/channel/UCtpR0PqxXTOykqYf7z-GWkg/videos
 
 ### University of Utah MacAdmins Meeting
 
 https://apple.lib.utah.edu/
+
 https://stream.lib.utah.edu/index.php?c=browse&m=results&q=mac+managers&cat=&sort=newest
