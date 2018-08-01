@@ -47,6 +47,10 @@ https://developer.apple.com/videos/
 
 https://auc.edu.au/xworld/sessions-2017/
 
+## Command IT
+
+https://www.youtube.com/channel/UCqzukWKnnqeVG88Pyd_DMCQ/videos
+
 ## Local meetups
 
 ### Austin Apple Admins
