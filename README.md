@@ -5,7 +5,7 @@ See something missing? Pull requests are gratefully received!
 
 This was inspired by a post on the MacAdmins Slack by @matx
 
-## Conferences
+# Conferences
 
 ### Penn State University MacAdmins (PSU)
 
@@ -51,7 +51,7 @@ https://auc.edu.au/xworld/sessions-2017/
 
 https://www.youtube.com/channel/UCqzukWKnnqeVG88Pyd_DMCQ/videos
 
-## Local meetups
+# Local meetups
 
 ### Austin Apple Admins
 
