@@ -51,6 +51,10 @@ https://auc.edu.au/xworld/sessions-2017/
 
 https://www.youtube.com/channel/UCqzukWKnnqeVG88Pyd_DMCQ/videos
 
+### MacAdminsUA Conference
+
+https://macadmins.org.ua
+
 # Local meetups
 
 ### Austin Apple Admins
