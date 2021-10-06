@@ -15,7 +15,7 @@ https://www.youtube.com/channel/UCiRYn1OSRv2bvU3enNwoZxg
 
 ### MacSysAdmin Sweden
 
-http://documentation.macsysadmin.se/Documentation2017/Documentation.php
+https://documentation.macsysadmin.se/
 
 ### QueryConf (OsQuery)
 
